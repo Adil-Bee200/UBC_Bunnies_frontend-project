@@ -1,7 +1,7 @@
 # UBC-Bunnies 🐰
 A responsive frontend mental health support platform developed during the NWPlus Hackathon.
 
-> 🏆 Winner – NWPlus Hackathon 2025
+> 🏆 Winner – NWPlus HackCamp Hackathon 2024
 
 ### Frontend Development Skills Demonstrated
 - **Responsive Web Design** - Mobile-first approach with fluid layouts
