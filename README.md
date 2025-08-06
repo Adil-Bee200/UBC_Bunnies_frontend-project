@@ -36,12 +36,6 @@ A responsive frontend mental health support platform developed during the NWPlus
 - **Real-time Messaging** - Interactive messaging system with user avatars
 - **Peer Matching System** - Advanced user matching interface with detailed profiles
 
-### Responsive Design
-![Mobile View](https://via.placeholder.com/300x500/9B59B6/FFFFFF?text=Mobile+Responsive)
-![Desktop View](https://via.placeholder.com/800x500/3498DB/FFFFFF?text=Desktop+View)
-
-*Note: Replace placeholder images with actual screenshots of your running application*
-
 ## 🏗️ Project Structure
 
 ```
